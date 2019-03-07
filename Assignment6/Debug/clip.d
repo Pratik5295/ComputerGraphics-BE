@@ -1,0 +1,1 @@
+clip.d: ../clip.c
